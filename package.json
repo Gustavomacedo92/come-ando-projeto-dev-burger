@@ -1,0 +1,22 @@
+{
+  "type": "module",
+  "name": "devburger-api",
+  "version": "1.0.0",
+  "description": "DevBurger API.",
+  "main": "src/server",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "author": {
+    "name": "Gustavo Macedo",
+    "url": "https://https://github.com/Gustavomacedo92"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0",
+    "sucrase": "^3.35.0"
+  }
+}
